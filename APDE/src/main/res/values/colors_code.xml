@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="code_background">#F5F5F5</color>
+    <color name="inline_code_background">#F0F0F0</color>
+    <color name="code_keyword">#0033B3</color>
+    <color name="code_string">#067D17</color>
+    <color name="code_number">#1750EB</color>
+    <color name="code_comment">#8C8C8C</color>
+    
+    <!-- Dark theme colors -->
+    <color name="code_background_dark">#2B2B2B</color>
+    <color name="inline_code_background_dark">#383838</color>
+    <color name="code_keyword_dark">#CC7832</color>
+    <color name="code_string_dark">#6A8759</color>
+    <color name="code_number_dark">#6897BB</color>
+    <color name="code_comment_dark">#808080</color>
+</resources>
